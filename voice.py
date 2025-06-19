@@ -4,7 +4,7 @@ import pyttsx3
 from openai import OpenAI
 
 # Initialize the OpenAI client with your API key
-client = OpenAI(api_key="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")
+client = #your openAI API key
 
 def get_ai_response(prompt):
     try:
